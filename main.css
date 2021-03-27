@@ -103,7 +103,7 @@ filter: grayscale(0%);
 padding-left:5%;
 padding-right:5%;
   overflow: hidden;
-  background-color: #8c9aa2;
+  background-color: #dddddd;
 }
 
 .topnav a {
