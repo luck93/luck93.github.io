@@ -103,20 +103,21 @@ filter: grayscale(0%);
 padding-left:5%;
 padding-right:5%;
   overflow: hidden;
-  background-color: #dddddd;
+  background-color: #8c9aa2;
 }
 
 .topnav a {
-  float: left;
+  padding-left:100%;
+  vertical-align:text-top;
   color: #000000;
-  text-align: center;
+  
 /*  padding: 14px 16px; */
   text-decoration: none;
   font-size: 17px;
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #8c9aa2;
   color: black;
 }
 
